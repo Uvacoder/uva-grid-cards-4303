@@ -1,8 +1,8 @@
 <template>
   <footer>
-    <p>Copyright &copy; {{ copyrightYear }} Is this gov.ph site secure?</p>
+    <p>Copyright &copy; {{ copyrightYear }} uvacoder</p>
     &middot;
-    <a href="https://github.com/arnellebalane/isthisgovphsitesecure.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/uvacoder/abc-test-grid-cards" target="_blank" rel="noopener noreferrer">
       GitHub
     </a>
   </footer>
