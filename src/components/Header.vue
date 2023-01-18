@@ -1,6 +1,6 @@
 <template>
   <header class="Header">
-    <h1>This is a test site for card grids <span>and more!</span></h1>
+    <h1>This is a starter site for cards, grids <span>and more!</span></h1>
 
     <p>
       Last update: <time datetime="meta.lastUpdate">{{ lastUpdate }}</time>
